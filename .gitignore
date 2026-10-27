@@ -1,0 +1,10 @@
+# 工具运行时生成的资产（Animator 控制器 / 动画片段）
+Generated/
+Generated.meta
+
+# Unity / IDE 常见噪声
+*.csproj
+*.sln
+*.user
+obj/
+.vs/
